@@ -102,11 +102,11 @@ void main(){
 	if(flag){
 		printf("\nENCONTROU RAIZ EXATA");
 	}
-	
+
 	printf("\nMETODO DA BISSECCAO\n\n");
 
 	printf("Raiz aproximada(X) = %lf\n", xC);
 	printf("F(X) = %lf\n", f(xC));
-	printf("%i iteracoes\n", iteracoes);
+	printf("%i iteracoes\n\n", iteracoes);
 
 }
